@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^30.0.4"
+  },
+  "name": "mathtest",
+  "version": "1.0.0",
+  "main": "math.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
