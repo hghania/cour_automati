@@ -10,4 +10,4 @@ function division(x,y){
     return x/y;
 
 }
-module.exports={addition,division}
+module.exports ={addition , division}
